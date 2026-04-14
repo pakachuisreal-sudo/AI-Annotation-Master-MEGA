@@ -1,0 +1,5 @@
+{
+  "version": "23.05.3",
+  "download_url": "INSERT_LINK_HERE",
+  "release_notes": "- Added VIP Admin APM Tracker\n- Fixed BBox Ghosting\n- Added Clockify Crash Recovery"
+}
