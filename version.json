@@ -1,5 +1,5 @@
 {
   "version": "23.05.3",
-  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/Annotation/AI.Annotation.Master.MEGA.msi",
-  "release_notes": "- Added VIP Admin APM Tracker\n- Fixed BBox Ghosting\n- Added Clockify Crash Recovery"
+  "download_url": "https://github.com/YourUsername/Skysense-Annotator/releases/download/v23.05.3/AnnotationMaster_v23.05.3.msi",
+  "release_notes": "- Switched to official Windows Installer (.msi)\n- Added VIP Admin APM Tracker\n- Fixed BBox Ghosting"
 }
