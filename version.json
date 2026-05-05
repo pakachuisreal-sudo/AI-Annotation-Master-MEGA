@@ -1,5 +1,5 @@
 {
-  "version": "23.05.5",
-  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v23.05.5/AI.Annotation.Master.MEGA_v23.05.5.msi",
-  "release_notes": "v23.05.5 Major Workflow Update:\n- Made Team Board dropdowns 100% scroll-proof to prevent accidental reassignments\n- Added Interactive Shape List panel to the Visual QA Editor\n- Added rapid-fire auto-delete capability (Hold Delete to machine-gun shapes)\n- Added permanent, dynamically-sliding ID numbers to the outside edges of shapes\n- Upgraded shape labels with Constant Screen Scaling (zoom-proof text)\n- Fixed 'Ghosting' and text-blocking bugs during shape resizing"
+  "version": "23.05.6",
+  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v23.05.6/AI.Annotation.Master.MEGA_v23.05.6.msi",
+  "release_notes": "v23.05.6 The Ultimate Stability & QA Patch:\n- Standalone .exe is now 100% crash-proof with C++ memory armor and strict thread kill-switches.\n- Added dynamic 'Empty XML/JSON Generated' status indicator directly to the canvas.\n- Upgraded SPACEBAR to act as an 'Instant Empty Verify' shortcut for images with no labels.\n- Added rapid-fire auto-delete capability (Hold Delete to machine-gun shapes).\n- Added permanent, dynamically-sliding ID numbers to the outside edges of shapes.\n- Upgraded shape labels with Constant Screen Scaling (zoom-proof text)."
 }
