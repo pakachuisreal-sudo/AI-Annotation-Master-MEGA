@@ -1,5 +1,5 @@
 {
-  "version": "1.1.5726",
+  "version": "1.1.5727",
   "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v1.1.5726/AI_Annotation_Master.MEGA_v1.1.5726.msi",
   "release_notes": "v1.1.5726 In-Editor Hot-Swapping Update:\n- Added 'Hot-Swap' XML/JSON Pill Buttons directly inside the Visual QA Editor, allowing seamless mode switching without closing the window.\n- Engineered a Background Sync System: Swapping modes inside the Editor now silently updates the Main Dashboard so the entire application stays perfectly synchronized.\n- Fixed a Combobox Memory Leak: The Active Class dropdown now completely wipes and rebuilds its label list the exact millisecond you switch modes, preventing XML/JSON class contamination.\n- Resolved a minor compilation formatting issue."
 }
