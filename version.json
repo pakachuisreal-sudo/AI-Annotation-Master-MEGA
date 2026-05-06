@@ -1,5 +1,5 @@
 {
   "version": "1.0.5626",
-  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v1.0.5626/AI_Annotation_Master.MEGA_v1.0.5626.msi",
+  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v1.0.5626/AI.Annotation.Master.MEGA_v1.0.5626.msi",
   "release_notes": "v1.0.5626 Stability & UI Refresh:\n- Fixed critical crash (AttributeError) during Clockify start by initializing the APM Heartbeat timer.\n- Fixed UI initialization crash by correcting QButtonGroup method logic.\n- Overhauled Mode Selection: Replaced tiny radio buttons with large, color-coded XML/JSON 'Pill' buttons (Green = Active, Gray = Inactive).\n- Implemented 'Live Mode Swapping': Switching between XML and JSON now instantly transforms the open QA window without needing to close it.\n- Fixed 'Active Class' Dropdown: Dropdown now remains stubbornly blank when the lock is off, preventing unwanted label hijacking.\n- Perfect Branding: Version signature is now mathematically centered on all window sizes for both the Dashboard and QA Editor.\n- Speed Optimization: Cut the 'Cloud Sync' fake loading time in half (now 5 seconds)."
 }
