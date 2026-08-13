@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5831",
-  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v2.0.5831/AI.Master.Annotation.Master.Sync_v2.0.5831.msi",
-  "release_notes": "v2.0.5831 Critical Stability Patch:\n- Fixed a Cache Poisoning bug where rapid SyncTrayzor background updates caused XML bounding boxes to be saved to the wrong file.\n- Background image pre-loader now strictly uses exact filenames instead of table row indexes.\n- Added defensive force-save armor when switching between images rapidly."
+  "version": "2.0.5832",
+  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v2.0.5832/AI.Master.Annotation.Master.Sync_v2.0.5832.msi",
+  "release_notes": "v2.0.5832 Feature Update:\n- New Advance Mode in QA window: checkbox to stay in drawing mode (XML only) without pressing W for each box.\n- New Label Visibility List: checkboxes to show/hide shapes by label; new labels added automatically with visible checked.\n- Fixed crash on refresh_legend by replacing with new label visibility list.\n- Enhanced mode switching: Advance Mode auto-disabled in JSON."
 }
