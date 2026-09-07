@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5833",
-  "download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v2.0.5833/AI.Master.Annotation.Master.Sync_v2.0.5833.msi",
-  "release_notes": "v2.0.5833 Feature Update:\n- New Advance Mode in QA window: checkbox to stay in drawing mode (XML only) without pressing W for each box.\n- New Label Visibility List: checkboxes to show/hide shapes by label; new labels added automatically with visible checked.\n- Fixed crash on refresh_legend by replacing with new label visibility list.\n- Enhanced mode switching: Advance Mode auto-disabled in JSON.\n- Added Unlocked status – any user can continue session on folders set to Unlocked.\n- Added Emergency Release for admins to clear assignment."
+"version": "2.0.5834",
+"download_url": "https://github.com/pakachuisreal-sudo/AI-Annotation-Master-MEGA/releases/download/v2.0.5834/AI.Master.Annotation.Master.Sync_v2.0.5834.msi",
+"release_notes": "v2.0.5834 Stability Update:\n- Integrated First-Claimant Dominance Armor to completely eliminate race condition collisions.\n- Added millisecond claim-timestamp tracking for Sandtime.io sessions.\n- Prevented Last-Writer-Wins P2P Paradox overwrites in SyncTrayzor mesh network.\n- Optimized auto-eviction and background sync recovery."
 }
